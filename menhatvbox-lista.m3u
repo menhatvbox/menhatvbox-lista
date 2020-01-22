@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,globo
-http://198.255.23.18:2095/streams/157_.m3u8
+http://198.255.23.18:2095/streams/134_.m3u8
 #EXTINF:-1,iptvtools_2
 http://198.255.23.18:2095/streams/158
 http://198.255.23.18:2095/streams/17_.m3u8
