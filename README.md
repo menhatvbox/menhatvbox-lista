@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-0,animal
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1,Ryan
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1,Agenor
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
-#EXTINF:-1,iptvtools_15
-http://198.255.23.18:2095/streams/128_.m3u8
-#EXTINF:-1,iptvtools_16
-http://198.255.23.18:2095/streams/183_.m3u8
-#EXTINF:-1,iptvtools_17
-http://198.255.23.18:2095/streams/184_.m3u8
-#EXTINF:-1,iptvtools_18
-http://198.255.23.18:2095/streams/49_.m3u8
 #EXTINF:-1,iptvtools_19
 http://198.255.23.18:2095/streams/148_.m3u8
 #EXTINF:-1,iptvtools_20
