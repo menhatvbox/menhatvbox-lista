@@ -5,4 +5,7 @@ SBT
 
 2.png" group-title="Canais SBT",SBT SP FullHD¹
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,Rede Vida
+http://viptv2.dyndns.tv:25461/0137/0137/35
+
 
